@@ -1,0 +1,44 @@
+body{
+    background-color: #5184d0;
+    font-family:Shrikhand;
+}
+#title{
+    font-family: courier;
+    text-align:center;
+    width:60%;
+    margin-left:20%;
+    color: white;
+    font-size:10em;
+}
+#intro{
+    font-family: courier;
+    text-align:center;
+    width:60%;
+    margin-left:20%;
+    color: white;
+}
+#begin{
+    display: block;
+    margin-left:30%;
+    margin-top:7%;
+    width: 40%;
+    border-radius: 10px;
+    font-size: 5em;
+    font-family:Shrikhand;
+    color: #5184d0;
+}
+#word{
+    font-size: 10em;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+#score{
+    font-size: 10em;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+#timer{
+    font-size: 8em;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.54);
+}
